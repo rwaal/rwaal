@@ -1,6 +1,6 @@
 # Welcome to my profile 👋
 
-My name is Richard Waal, a cloud engineer from the Netherlands 🇳🇱 with a passion for technology. Specialized Kubernetes, Microsoft Azure, Oracle Cloud Infrastructure (OCI), automation, and DevOps practices.
+My name is Richard Waal, a platform engineer from the Netherlands 🇳🇱 with a passion for technology. Specialized Kubernetes, Microsoft Azure, Oracle Cloud Infrastructure (OCI), automation, and DevOps practices.
 
 Want to reach out? Hit me on:
 <p><a href="https://www.twitter.com/rwaal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/richardwaal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
